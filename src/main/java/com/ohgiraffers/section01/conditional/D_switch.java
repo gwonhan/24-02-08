@@ -80,6 +80,7 @@ public class D_switch {
         /*원하는 음료에 맞는 가격을 지정할 변수*/
         int price = 0;
         switch (selectDrink){
+
             case "사이다" :
                 System.out.println("사이다를 선택했습니다. ");
                 price = 1500;

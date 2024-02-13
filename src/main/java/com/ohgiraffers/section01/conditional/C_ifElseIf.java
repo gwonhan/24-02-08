@@ -54,4 +54,5 @@ public class C_ifElseIf {
 
     }
 }
+// if else 를 쓰면 복잡해져서 swich를 쓴다.
 

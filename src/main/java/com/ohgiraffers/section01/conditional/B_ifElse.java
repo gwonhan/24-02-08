@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class B_ifElse {
     public void testSimpleIfElseStatement() {
 
-        /*수업목표. if-else 문 단독 ㅏ용에 대한 흐름을 이해하고 적용할 수 있다.*/
+        /*수업목표. if-else 문 단독 사용에 대한 흐름을 이해하고 적용할 수 있다.*/
 
         /*필기.
          *   [if-else 문 표현식]

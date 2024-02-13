@@ -16,14 +16,14 @@ public class Application01 {
       // Test g = new Test();
        //g.testIf();
 
-        hahaha h = new hahaha();
-        h.testing();
+        //hahaha h = new hahaha();
+        //h.testing();
 
-        //D_switch d = new D_switch();
-        //d.testSimpleSwitchStatement();
+      //  D_switch d = new D_switch();
+      //  d.testSimpleSwitchStatement();
 
-       // D_switch d = new D_switch();
-        //d.testSwitchVendingMachine();
+        D_switch d = new D_switch();
+        d.testSwitchVendingMachine();
 
     }
 
